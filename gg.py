@@ -1,2 +1,0 @@
-print('wdf')
-print ('gggggg')
